@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="142" height="30" viewBox="0 0 142 30" role="img" aria-label="MEDAL: SILVER">
+  <title>MEDAL: SILVER</title>
+  <rect width="142" height="30" rx="6" fill="#24292F"/>
+  <rect x="67" width="75" height="30" rx="6" fill="#6E7781"/>
+  <rect x="67" width="6" height="30" fill="#6E7781"/>
+  <text x="33.5" y="20" fill="#FFFFFF" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" font-weight="700" letter-spacing="0.6" text-anchor="middle">MEDAL</text>
+  <text x="104.4" y="20" fill="#FFFFFF" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" font-weight="700" letter-spacing="0.6" text-anchor="middle">SILVER</text>
+</svg>

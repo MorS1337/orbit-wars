@@ -4,12 +4,12 @@
 
 **Model-based planning agent for a continuous 2D real-time strategy game**
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-Featured%20Simulation-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/competitions/orbit-wars)
-[![Silver Medal](https://img.shields.io/badge/Medal-Silver-C0C0C0?style=for-the-badge)](https://www.kaggle.com/competitions/orbit-wars/leaderboard)
-[![Rank](https://img.shields.io/badge/Rank-203%20%2F%204729-1F6FEB?style=for-the-badge)](https://www.kaggle.com/competitions/orbit-wars/leaderboard)
-[![Score](https://img.shields.io/badge/Score-1152.3-2EA043?style=for-the-badge)](https://www.kaggle.com/competitions/orbit-wars/leaderboard)
-[![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![Kaggle](assets/badges/kaggle.svg)](https://www.kaggle.com/competitions/orbit-wars)
+[![Silver Medal](assets/badges/silver.svg)](https://www.kaggle.com/competitions/orbit-wars/leaderboard)
+[![Rank](assets/badges/rank.svg)](https://www.kaggle.com/competitions/orbit-wars/leaderboard)
+[![Score](assets/badges/score.svg)](https://www.kaggle.com/competitions/orbit-wars/leaderboard)
+[![Python](assets/badges/python.svg)](https://www.python.org/)
+[![PyTorch](assets/badges/pytorch.svg)](https://pytorch.org/)
 
 **Silver medal · 203 / 4729 teams · top 4.3%**
 
