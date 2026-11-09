@@ -1,4 +1,7 @@
-# Orbit Wars
+# Orbit Wars — rules reference
+
+> Frozen reference copy of the Orbit Wars rules and engine parameters for reproducibility.
+> Game design, rules, and engine belong to Kaggle and the competition organizers; see `NOTICE.md`.
 
 Conquer planets rotating around a sun in continuous 2D space. A real-time strategy game for 2 or 4 players.
 
