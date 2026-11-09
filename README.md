@@ -1,15 +1,10 @@
 <div align="center">
 
+<img src="assets/orbit-wars-header.png" alt="Orbit Wars — Kaggle Featured Simulation Competition" width="560">
+
 # Orbit Wars
 
 **Model-based planning agent for a continuous 2D real-time strategy game**
-
-[![Kaggle](assets/badges/kaggle.svg)](https://www.kaggle.com/competitions/orbit-wars)
-[![Silver Medal](assets/badges/silver.svg)](https://www.kaggle.com/competitions/orbit-wars/leaderboard)
-[![Rank](assets/badges/rank.svg)](https://www.kaggle.com/competitions/orbit-wars/leaderboard)
-[![Score](assets/badges/score.svg)](https://www.kaggle.com/competitions/orbit-wars/leaderboard)
-[![Python](assets/badges/python.svg)](https://www.python.org/)
-[![PyTorch](assets/badges/pytorch.svg)](https://pytorch.org/)
 
 **Silver medal · 203 / 4729 teams · top 4.3%**
 
@@ -41,7 +36,7 @@ Team **puBERTat**: Semyon Morev · Kirill Gerasimov
 | **Режимы** | 1v1 и 4P FFA, 500 ходов, 1 секунда на ход |
 | **Стек** | Python, PyTorch, `kaggle-environments` |
 
-В соревновании участвовали **4 729 команд**; призовой фонд — **$50 000**. Верхушка лидерборда —
+В соревновании участвовали **4 729 команд**; призовой фонд — **50 000 USD**. Верхушка лидерборда —
 сильные RL/инженерные команды; первое место заняла **Isaiah @ Tufa Labs**. Наш результат — Silver
 на интерпретируемой эвристике с собственным симулятором и строгим офлайн-гейтом.
 
@@ -185,7 +180,7 @@ $$
 горизонте. Формально:
 
 $$
-\text{safe\_drain} = \min_{t \in \text{held}} \text{ships}_t
+\mathrm{safeDrain} = \min_{t \in \text{held}} \mathrm{ships}_t
 $$
 
 Если планета всё равно обречена — ограничение снимается, и гарнизон можно эвакуировать.

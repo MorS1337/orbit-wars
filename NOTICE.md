@@ -30,6 +30,12 @@ The authors of those notebooks retain all rights to their code and ideas. Their 
 were used as starting points and reference material, not as a claim of original authorship by
 this team.
 
+## Images
+
+- `assets/orbit-wars-header.png` — official Orbit Wars competition header art, taken from the
+  Kaggle competition page and used here for identification only. Copyright belongs to Kaggle /
+  the competition organizers.
+
 ## Original work in this repository
 
 The following components were written/refactored by the team for this competition:
